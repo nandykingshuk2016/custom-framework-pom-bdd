@@ -7,6 +7,22 @@ Step 4: Installed the following Eclipse Plugin
 		Cucumber Feature Plugin
 Step 5: Create a basic Maven Project
 ===================================
+Source Code Management: Git
+A] Initally pushing the Project:
+	Create Git Repository in Github
+	In the project filder
+	1] git init
+	2] git status
+	3] git add .
+	4]git remote add origin "https://github.com/nandykingshuk2016/custom-framework-pom-bdd.git"
+	5]git commit -m "initial commit"
+	6]git push -u origin master
+
+==========================================================
+B] Clone the Repository
+
+
+
 ADD the following dependencies:
 
 
