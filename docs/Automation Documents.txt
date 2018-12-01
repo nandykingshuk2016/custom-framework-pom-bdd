@@ -17,6 +17,12 @@ A] Initally pushing the Project:
 	4]git remote add origin "https://github.com/nandykingshuk2016/custom-framework-pom-bdd.git"
 	5]git commit -m "initial commit"
 	6]git push -u origin master
+	
+B] After editing a file and commiting into github
+	git status
+	git add .
+	git commit -m "initial commit"
+	git push -u origin master
 
 ==========================================================
 B] Clone the Repository
