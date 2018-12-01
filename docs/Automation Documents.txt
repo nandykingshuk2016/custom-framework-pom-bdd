@@ -1,0 +1,16 @@
+step 1: Install JDK
+Step 2: Git and TotriseGit
+Step 3: Install Eclipse JEE Installer
+Step 4: Installed the following Eclipse Plugin
+		Maven Plugin Installed
+		Testng Plugin Installed
+		Cucumber Feature Plugin
+Step 5: Create a basic Maven Project
+===================================
+ADD the following dependencies:
+
+
+
+Add Plugins:
+1] maven-compiler-plugin  //Work : Set or Update the JDK or execution platform version
+2]
